@@ -13,6 +13,6 @@
 		<span class="screen-reader-text"><?php echo _x( 'Search for:', 'label', 'jetblack' ); ?></span>
 		<input type="search" class="search-field" placeholder="<?php echo esc_attr( $search_text ); ?>" value="<?php echo get_search_query(); ?>" name="s" />
 	</label>
-	<input type="submit" class="search-submit" value="&#xf002;" />
+	<input type="submit" class="search-submit" value="&#128065" />
 
 </form>

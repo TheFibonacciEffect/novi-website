@@ -6,7 +6,7 @@
  */
 ?>
 <div class="primary-search-wrapper">
-	<a href="#" id="search-toggle" class="menu-search-toggle"><span class="screen-reader-text"><?php esc_html_e( 'Search', 'jetblack' ); ?></span><i class="fa fa-search"></i><i class="far fa-times-circle"></i></a>
+	<a href="#" id="search-toggle" class="menu-search-toggle"><span class="screen-reader-text"><?php esc_html_e( 'Search', 'jetblack' ); ?></span><i class="fa fa-search"></i></a>
 	<div id="search-container" class="displaynone">
 		<div class="search-container">
 			<?php get_search_form(); ?>

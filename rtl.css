@@ -269,7 +269,7 @@ a.scrollup, a.scrollup:visited {
 .sidebar ul li::before {
     margin: 0;
     margin-left: 10px;
-    content: "\f30a";
+    content: "&bull;";
 }
 .sidebar .widget-title:after {
     right: 0;

@@ -3883,7 +3883,7 @@ a.scrollup:active {
 }
 
 .sidebar .widget_recent_entries ul li::before {
-	content: "\f02b";
+	content: "-";
 }
 
 .sidebar .widget_rss ul li::before  {
