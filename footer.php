@@ -21,7 +21,7 @@
 	</div><!-- #page -->
 
 	<div id="scrollup" class="displaynone">
-		<a title="<?php echo esc_attr__( 'Go to Top', 'jetblack' ); ?>" class="scrollup" href="#"><i class="fas fa-angle-up"></i></a>
+		<a title="<?php echo esc_attr__( 'Go to Top', 'jetblack' ); ?>" class="scrollup" href="#"><i class="fa fa-angle-up"></i></a>
 	</div>
 
 	<?php wp_footer(); ?>
